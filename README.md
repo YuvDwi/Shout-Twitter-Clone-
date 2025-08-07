@@ -1,8 +1,8 @@
-# Shout-Twitter-Clone-
-Shout: A Micro-Blogging Platform, and a clone of Twitter!
+# Shout
+Shout: Why type when you can SHOUT!
 
 🐦 Overview:
-A robust Twitter clone built from the ground up, enabling users to share short messages, images, and engage in conversations.
+A social media platform where instead of videos, you comminicate via memos, saying what you want however you want, free of censorship
 
 Features:
 
